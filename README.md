@@ -1,2 +1,10 @@
-# statistical_computing_projects
-Various mini-projects for Statistical Computing 36-750 at Carnegie Mellon University in Fall 2017.
+# Statistical Computing Projects
+
+This repository contains the code the following mini-projects:
+- **Anomaly Speed**:  TODO
+- **Bloom Filters**:  TODO
+- **Color Matcher**:  TODO
+- **Cutting Sticks**: TODO
+- **Graph Classes**:  TODO
+- **Markov Babbler**: TODO
+- **Tower of Hanoi**: TODO
